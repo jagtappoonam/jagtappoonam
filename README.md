@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" alt="hey" height="200"/>
+  <img src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" alt="hey" height="250"/>
 </p>
 <hr>
 
