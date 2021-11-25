@@ -23,4 +23,4 @@
 - ❓ Ask me about anything related to Python and related technologies  
   
 
-- ⚡ Fun fact: I use  
+- ⚡ Fun fact: I use Jupyter Notebook | MYSQL |VS Code
